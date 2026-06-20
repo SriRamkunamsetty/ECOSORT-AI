@@ -1,0 +1,6 @@
+{
+  "name": "EcoSort AI",
+  "description": "Enterprise Smart Waste Segregation & Circular Economy Recycling Intelligence Platform",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
